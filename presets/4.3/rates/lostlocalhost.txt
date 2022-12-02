@@ -7,6 +7,11 @@
 #$ AUTHOR: lostlocalhost (Brian S)
 #$ PARSER: MARKED
 
+#$ DESCRIPTION: <img src="https://github.com/lostlocalhost/firmware-presets/raw/6fe991ae278888544130ac92ad1082e8ff7efd8f/presets/img/LLH.png" width="100px" style="margin-left: auto; margin-right: auto; display: block;"/>
+#$ DESCRIPTION: 
+#$ DESCRIPTION: <img src="https://github.com/lostlocalhost/firmware-presets/raw/6fe991ae278888544130ac92ad1082e8ff7efd8f/presets/img/DFWFPV.png" width="250px" style="margin-left: auto; margin-right: auto; display: block;"/>
+#$ DESCRIPTION: 
+#$ DESCRIPTION: 
 #$ DESCRIPTION: Set of rates lostlocalhost uses. Slow, default, and fast. lostlocalhost typically sets these to a selection switch to change in flight.
 #$ DESCRIPTION:
 #$ DESCRIPTION: Default rates: R910, P910, Y800

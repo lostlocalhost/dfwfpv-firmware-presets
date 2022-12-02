@@ -10,13 +10,14 @@
 #$ DESCRIPTION: 
 #$ DESCRIPTION: <img src="https://github.com/lostlocalhost/firmware-presets/raw/6fe991ae278888544130ac92ad1082e8ff7efd8f/presets/img/DFWFPV.png" width="250px" style="margin-left: auto; margin-right: auto; display: block;"/>
 #$ DESCRIPTION: 
+#$ DESCRIPTION: 
 #$ DESCRIPTION: Sets switch modes for DJI Transmitter.
 #$ DESCRIPTION: AUX1: MuteBPR, NoAction, Beeper
 #$ DESCRIPTION: AUX2: RateProf1, RateProf2, RateProf3
 #$ DESCRIPTION: AUX3: Angle, Acro, Flip
 #$ DESCRIPTION: AUX4: Disarm, Arm, Arm
 #$ DESCRIPTION:
-#$ DESCRIPTION: <img src="https://github.com/lostlocalhost/firmware-presets/raw/1633308e7d206628f3b5b6de86759b5925bb06ea/presets/4.3/modes/img/modes1_main.JPG"><br><img src="https://github.com/lostlocalhost/firmware-presets/raw/1633308e7d206628f3b5b6de86759b5925bb06ea/presets/4.3/modes/img/modes1_adj.JPG">
+#$ DESCRIPTION: <img src="https://github.com/lostlocalhost/firmware-presets/raw/1633308e7d206628f3b5b6de86759b5925bb06ea/presets/4.3/modes/img/modes1_main.JPG"width="500px" style="margin-left: auto; margin-right: auto; display: block;"/><br><img src="https://github.com/lostlocalhost/firmware-presets/raw/1633308e7d206628f3b5b6de86759b5925bb06ea/presets/4.3/modes/img/modes1_adj.JPG" width="500px" style="margin-left: auto; margin-right: auto; display: block;"/>
 #$ DESCRIPTION: 
 #$ DESCRIPTION: - [lostlocalhost.com](https://lostlocalhost.com)<br>
 #$ DESCRIPTION: - [DFW FPV](https://dfwfpv.club)<br>
