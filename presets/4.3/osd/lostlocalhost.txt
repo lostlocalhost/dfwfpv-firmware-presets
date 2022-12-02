@@ -4,16 +4,14 @@
 #$ STATUS: COMMUNITY
 #$ KEYWORDS: lostlocalhost, youtube, OSD
 #$ AUTHOR: lostlocalhost (Brian S)
-#$ PARSER: MARKED
 
-#$ DESCRIPTION: <center><img src="https://github.com/lostlocalhost/firmware-presets/raw/6fe991ae278888544130ac92ad1082e8ff7efd8f/presets/img/LLH.png" width="100px"/><img src="https://github.com/lostlocalhost/firmware-presets/raw/6fe991ae278888544130ac92ad1082e8ff7efd8f/presets/img/DFWFPV.png" width="250px"/></center><br>
-#$ DESCRIPTION: <br>
+#$ DESCRIPTION: <center><img src="https://github.com/lostlocalhost/firmware-presets/raw/6fe991ae278888544130ac92ad1082e8ff7efd8f/presets/img/LLH.png" width="120px"/><img src="https://github.com/lostlocalhost/firmware-presets/raw/6fe991ae278888544130ac92ad1082e8ff7efd8f/presets/img/DFWFPV.png" width="250px"/></center><br>
 #$ DESCRIPTION: <br>
 #$ DESCRIPTION: lostlocalhost Main OSD Elements
-#$ DESCRIPTION: <br>
 #$ DESCRIPTION:  
 #$ DESCRIPTION:  
 #$ DESCRIPTION: <h1>Links</h1>
+#$ PARSER: MARKED
 #$ DESCRIPTION: - [LOSTLOCALHOST](https://lostlocalhost.com)
 #$ DESCRIPTION: - [DFW FPV](https://dfwfpv.club)
 #$ DESCRIPTION: - [DFW Multirotor Discord](https://dc.dfwfpv.club)
