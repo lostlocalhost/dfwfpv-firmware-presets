@@ -17,7 +17,7 @@
 #$ DESCRIPTION: <br>
 #$ DESCRIPTION: There are different tune and rate profiles included on this - though tune profile 1 is typically used.
 #$ DESCRIPTION:
-#$ DESCRIPTION: The three rateprofiles are mapped to AUX2 switch in the Adjustments tab.
+#$ DESCRIPTION: The three rateprofiles are mapped to AUX2 switch of the DJI transmitter in the Adjustments tab.
 #$ DESCRIPTION:
 #$ DESCRIPTION: <br>
 #$ DESCRIPTION: <h3>Links</h3>
