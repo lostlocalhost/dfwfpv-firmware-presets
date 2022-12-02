@@ -167,6 +167,7 @@
       "lostlocalhost",
       "mode",
       "modes",
+      "Nazgul XL5 Backup",
       "OSD",
       "pid",
       "rates",
@@ -186,6 +187,22 @@
     ]
   },
   "presets": [
+    {
+      "fullPath": "presets/4.3/bnf/lostlocalhost.txt",
+      "hash": "ef087d898f624a1d1582dad469431cf1c95ba507d78372baea489cec38baf55e",
+      "title": "lostlocalhost Nazgul XL5 Backup",
+      "firmware_version": [
+        "4.3"
+      ],
+      "category": "OSD",
+      "status": "COMMUNITY",
+      "keywords": [
+        "lostlocalhost",
+        "Nazgul XL5 Backup"
+      ],
+      "author": "lostlocalhost",
+      "priority": 0
+    },
     {
       "fullPath": "presets/4.3/filters/defaults.txt",
       "hash": "94dd6e400f67d5bde88bf5a6952c83255db887da83dcc9b247a04ffac43f9cd2",
