@@ -6,10 +6,13 @@
 #$ AUTHOR: lostlocalhost (Brian S)
 
 #$ PARSER: MARKED
+
 #$ DESCRIPTION: <center><img src="https://github.com/lostlocalhost/firmware-presets/raw/6fe991ae278888544130ac92ad1082e8ff7efd8f/presets/img/LLH.png" width="100px"/><img src="https://github.com/lostlocalhost/firmware-presets/raw/6fe991ae278888544130ac92ad1082e8ff7efd8f/presets/img/DFWFPV.png" width="250px"/></center><br>
 #$ DESCRIPTION:
-#$ DESCRIPTION: 'dump all' backup of lostlocalhosts Nazgul XL5 Build.<br>
-#$ DESCRIPTION: This is the exact setup used by lostlocalhost. If you decide to use this, take the time to carefully review all aspects of this setup! You are responsible for your own build and tune!<br>
+#$ DESCRIPTION: Information:
+#$ DESCRIPTION: -----------
+#$ DESCRIPTION: 'dump all' backup of lostlocalhosts Nazgul XL5 Build. 
+#$ DESCRIPTION: This is the exact setup used by lostlocalhost. If you decide to use this, take the time to carefully review all aspects of this setup! You are responsible for your own build and tune!
 #$ DESCRIPTION:
 #$ DESCRIPTION:
 #$ DESCRIPTION: There are different tune and rate profiles included on this - though tune profile 1 is typically used.
@@ -18,7 +21,7 @@
 #$ DESCRIPTION:
 #$ DESCRIPTION:
 #$ DESCRIPTION: <h1>Links</h1>
-#$ DESCRIPTION: - [LOSTLOCALHOST](https://lostlocalhost.com)
+#$ DESCRIPTION: - [LOSTLOCALHOST2](https://lostlocalhost.com)
 #$ DESCRIPTION: - [DFW FPV](https://dfwfpv.club)
 #$ DESCRIPTION: - [DFW Multirotor Discord](https://dc.dfwfpv.club)
 #$ FORCE_OPTIONS_REVIEW: True
