@@ -13,7 +13,7 @@
 #$ DESCRIPTION: -----------
 #$ DESCRIPTION: lostlocalhost Main OSD Elements
 #$ DESCRIPTION:
-#$ DESCRIPTION: <img src="https://github.com/lostlocalhost/firmware-presets/raw/master/presets/4.3/osd/img/llh_osd1.png" width="300px"/>
+#$ DESCRIPTION: <center><img src="https://github.com/lostlocalhost/firmware-presets/raw/master/presets/4.3/osd/img/llh_osd1.png" width="500px"/></center>
 #$ DESCRIPTION:
 #$ DESCRIPTION: <br>
 #$ DESCRIPTION: <h3>Links</h3>
