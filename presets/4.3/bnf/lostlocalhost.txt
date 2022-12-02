@@ -14,12 +14,10 @@
 #$ DESCRIPTION: 'dump all' backup of lostlocalhosts Nazgul XL5 Build. 
 #$ DESCRIPTION: This is the exact setup used by lostlocalhost. If you decide to use this, take the time to carefully review all aspects of this setup! You are responsible for your own build and tune!
 #$ DESCRIPTION:
-#$ DESCRIPTION:
-#$ DESCRIPTION:
+#$ DESCRIPTION: <br><br>
 #$ DESCRIPTION: There are different tune and rate profiles included on this - though tune profile 1 is typically used.
 #$ DESCRIPTION:
 #$ DESCRIPTION: The three rateprofiles are mapped to AUX2 switch in the Adjustments tab.
-#$ DESCRIPTION:
 #$ DESCRIPTION:
 #$ DESCRIPTION: <h3>Links</h3>
 #$ DESCRIPTION:
