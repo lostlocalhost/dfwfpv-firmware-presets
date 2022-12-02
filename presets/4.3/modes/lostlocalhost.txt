@@ -5,6 +5,10 @@
 #$ KEYWORDS: lostlocalhost, youtube, mode, modes, adjustments, aux, switch
 #$ AUTHOR: lostlocalhost
 #$ PARSER: MARKED
+
+#$ DESCRIPTION: <img src="asdfasdf" width="250px" style="margin-left: auto; margin-right: auto; display: block;"/>
+#$ DESCRIPTION: 
+
 #$ DESCRIPTION: Sets switch modes for DJI Transmitter.
 #$ DESCRIPTION: AUX1: MuteBPR, NoAction, Beeper
 #$ DESCRIPTION: AUX2: RateProf1, RateProf2, RateProf3
