@@ -22,9 +22,9 @@
 #$ DESCRIPTION:
 #$ DESCRIPTION:
 #$ DESCRIPTION: <h3>Links</h3>
-#$ DESCRIPTION: - [LOSTLOCALHOST7](https://www.youtube.com/c/lostlocalhost)
-#$ DESCRIPTION: - [DFW FPV](https://dfwfpv.club)
-#$ DESCRIPTION: - [DFW Multirotor Discord](https://dc.dfwfpv.club)
+#$ DESCRIPTION: - [LOSTLOCALHOST8](https://www.youtube.com/c/lostlocalhost)<br>
+#$ DESCRIPTION: - [DFW FPV](https://dfwfpv.club)<br>
+#$ DESCRIPTION: - [DFW Multirotor Discord](https://dc.dfwfpv.club)<br>
 #$ FORCE_OPTIONS_REVIEW: True
 
 # version
