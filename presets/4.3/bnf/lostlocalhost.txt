@@ -1,8 +1,8 @@
-#$ TITLE: lostlocalhost Nazgul XL5 Backup
+#$ TITLE: lostlocalhost Official Nazgul XL5 Backup
 #$ FIRMWARE_VERSION: 4.3
 #$ CATEGORY: BNF
 #$ STATUS: COMMUNITY
-#$ KEYWORDS: lostlocalhost, Nazgul XL5 Backup
+#$ KEYWORDS: lostlocalhost, youtube, Nazgul, XL5, Backup
 #$ AUTHOR: lostlocalhost
 #$ DESCRIPTION: 'dump all' backup of lostlocalhosts Nazgul XL5 Build.
 #$ DESCRIPTION: This is the exact setup used by lostlocalhost. If you decide to use this, take the time to carefully review all aspects of this setup! You are responsible for your own build and tune!

@@ -1,14 +1,16 @@
-#$ TITLE: lostlocalhost modes
+#$ TITLE: lostlocalhost Official Modes
 #$ FIRMWARE_VERSION: 4.3
 #$ CATEGORY: MODES
 #$ STATUS: COMMUNITY
-#$ KEYWORDS: lostlocalhost, mode, modes, adjustments, aux, switch
+#$ KEYWORDS: lostlocalhost, youtube, mode, modes, adjustments, aux, switch
 #$ AUTHOR: lostlocalhost
 #$ DESCRIPTION: Sets switch modes for DJI Transmitter.
 #$ DESCRIPTION: AUX1: MuteBPR, NoAction, Beeper
 #$ DESCRIPTION: AUX2: RateProf1, RateProf2, RateProf3
 #$ DESCRIPTION: AUX3: Angle, Acro, Flip
 #$ DESCRIPTION: AUX4: Disarm, Arm, Arm
+#$ DESCRIPTION:
+#$ DESCRIPTION: www.lostlocalhost.com
 
 # aux switch settings
 
