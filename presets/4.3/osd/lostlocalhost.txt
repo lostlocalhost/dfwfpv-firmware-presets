@@ -4,6 +4,7 @@
 #$ STATUS: COMMUNITY
 #$ KEYWORDS: lostlocalhost, youtube, OSD
 #$ AUTHOR: lostlocalhost
+#$ PARSER: MARKED
 #$ DESCRIPTION: lostlocalhost Main OSD Elements
 #$ DESCRIPTION:
 #$ DESCRIPTION: [lostlocalhost.com](https://lostlocalhost.com)
