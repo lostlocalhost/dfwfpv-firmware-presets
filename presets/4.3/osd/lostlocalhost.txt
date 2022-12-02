@@ -3,7 +3,7 @@
 #$ CATEGORY: OSD
 #$ STATUS: COMMUNITY
 #$ KEYWORDS: lostlocalhost, youtube, OSD
-#$ AUTHOR: lostlocalhost
+#$ AUTHOR: lostlocalhost (Brian S)
 #$ PARSER: MARKED
 #$ DESCRIPTION: lostlocalhost Main OSD Elements
 #$ DESCRIPTION:

@@ -3,8 +3,9 @@
 #$ CATEGORY: BNF
 #$ STATUS: COMMUNITY
 #$ KEYWORDS: lostlocalhost, youtube, Nazgul, XL5, Backup
-#$ AUTHOR: lostlocalhost
+#$ AUTHOR: lostlocalhost (Brian S)
 #$ PARSER: MARKED
+
 #$ DESCRIPTION: 'dump all' backup of lostlocalhosts Nazgul XL5 Build.
 #$ DESCRIPTION: This is the exact setup used by lostlocalhost. If you decide to use this, take the time to carefully review all aspects of this setup! You are responsible for your own build and tune!
 #$ DESCRIPTION: 

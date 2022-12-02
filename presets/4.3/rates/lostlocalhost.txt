@@ -4,8 +4,9 @@
 #$ CATEGORY: RATES
 #$ STATUS: COMMUNITY
 #$ KEYWORDS: lostlocalhost, youtube, freestyle, rate, rates
-#$ AUTHOR: lostlocalhost
+#$ AUTHOR: lostlocalhost (Brian S)
 #$ PARSER: MARKED
+
 #$ DESCRIPTION: Set of rates lostlocalhost uses. Slow, default, and fast. lostlocalhost typically sets these to a selection switch to change in flight.
 #$ DESCRIPTION:
 #$ DESCRIPTION: Default rates: R910, P910, Y800

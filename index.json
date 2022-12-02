@@ -149,7 +149,7 @@
     ],
     "author": [
       "Betaflight",
-      "lostlocalhost",
+      "lostlocalhost (Brian S)",
       "UAV Tech (Mark Spatz)"
     ],
     "keywords": [
@@ -193,7 +193,7 @@
   "presets": [
     {
       "fullPath": "presets/4.3/bnf/lostlocalhost.txt",
-      "hash": "c92e240893212b3016d054e18633c4b57fbdf2b1086897b90775ea05cf3c5145",
+      "hash": "c83ce0ca6bc6b7a005c065dd34da1fac20daa4b9aa375ddc36ebfb5d930bc282",
       "title": "lostlocalhost Official Nazgul XL5 Backup",
       "firmware_version": [
         "4.3"
@@ -207,7 +207,7 @@
         "XL5",
         "Backup"
       ],
-      "author": "lostlocalhost",
+      "author": "lostlocalhost (Brian S)",
       "force_options_review": true,
       "priority": 0
     },
@@ -270,7 +270,7 @@
     },
     {
       "fullPath": "presets/4.3/modes/lostlocalhost.txt",
-      "hash": "fe8e2ca259b48da2135a71f2bffed69898efe87df99a9ec7294e959369f54b69",
+      "hash": "4770d10dab74f80c9bc0f2511cec2bd244d2d9589667bd128ee782773e35a40e",
       "title": "lostlocalhost Official Modes",
       "firmware_version": [
         "4.3"
@@ -286,7 +286,7 @@
         "aux",
         "switch"
       ],
-      "author": "lostlocalhost",
+      "author": "lostlocalhost (Brian S)",
       "priority": 0
     },
     {
@@ -308,7 +308,7 @@
     },
     {
       "fullPath": "presets/4.3/osd/lostlocalhost.txt",
-      "hash": "0160fbaea66d912836f017f435971196284c1a54d32d19c47aa329526510f2b8",
+      "hash": "511c0a8e37d49227acd07836c4f02ccf200ddb6002c5ad3af74c79359190ae45",
       "title": "lostlocalhost Official OSD - Main",
       "firmware_version": [
         "4.3"
@@ -320,7 +320,7 @@
         "youtube",
         "OSD"
       ],
-      "author": "lostlocalhost",
+      "author": "lostlocalhost (Brian S)",
       "priority": 0
     },
     {
@@ -343,7 +343,7 @@
     },
     {
       "fullPath": "presets/4.3/rates/lostlocalhost.txt",
-      "hash": "1a593d7989026b9ee95db444b012bb8f6819e5d07e73714dc77fea95ff0ee1f2",
+      "hash": "152ef053baa56164bd659a98629d835f994453b00bac4b731dd190d6b50c892b",
       "title": "lostlocalhost Official Rates",
       "firmware_version": [
         "4.3",
@@ -358,7 +358,7 @@
         "rate",
         "rates"
       ],
-      "author": "lostlocalhost",
+      "author": "lostlocalhost (Brian S)",
       "priority": 10000
     },
     {

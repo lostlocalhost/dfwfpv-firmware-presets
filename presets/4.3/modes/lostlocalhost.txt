@@ -3,7 +3,7 @@
 #$ CATEGORY: MODES
 #$ STATUS: COMMUNITY
 #$ KEYWORDS: lostlocalhost, youtube, mode, modes, adjustments, aux, switch
-#$ AUTHOR: lostlocalhost
+#$ AUTHOR: lostlocalhost (Brian S)
 #$ PARSER: MARKED
 
 #$ DESCRIPTION: <img src="https://github.com/lostlocalhost/firmware-presets/raw/6fe991ae278888544130ac92ad1082e8ff7efd8f/presets/img/LLH.png" width="100px" style="margin-left: auto; margin-right: auto; display: block;"/>
