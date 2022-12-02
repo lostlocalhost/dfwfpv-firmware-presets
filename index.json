@@ -241,8 +241,8 @@
     },
     {
       "fullPath": "presets/4.3/osd/lostlocalhost.txt",
-      "hash": "e0146435247910507e47bb87e06b70e054ddbfb9a70749eb07015d6f469d79c6",
-      "title": "lostlocalhost Official OSD - Main",
+      "hash": "e3774ae2e414566f4ecb5d7c78363eb2d92e0b28d23b862b4f2aee277ae9e0fa",
+      "title": "lostlocalhost Official OSD",
       "firmware_version": [
         "4.3"
       ],

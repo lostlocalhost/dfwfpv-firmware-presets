@@ -1,4 +1,4 @@
-#$ TITLE: lostlocalhost Official OSD - Main
+#$ TITLE: lostlocalhost Official OSD
 #$ FIRMWARE_VERSION: 4.3
 #$ CATEGORY: OSD
 #$ STATUS: COMMUNITY
