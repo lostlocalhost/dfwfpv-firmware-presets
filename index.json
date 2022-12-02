@@ -143,8 +143,7 @@
       "OSD",
       "RATES",
       "RC_LINK",
-      "TUNE",
-      "VTX"
+      "TUNE"
     ],
     "author": [
       "Betaflight",
@@ -157,7 +156,6 @@
       "Apex",
       "aux",
       "Backup",
-      "clear",
       "defaults",
       "DJI",
       "expert",
@@ -172,18 +170,12 @@
       "pid",
       "rate",
       "rates",
-      "RC",
-      "rc link",
-      "rc_link",
-      "rc_smoothing",
+      "rc",
       "reset",
-      "Rx",
       "SBUS fast",
-      "smoothing",
       "switch",
       "transmitter",
       "tune",
-      "vtx",
       "XL5",
       "youtube"
     ]
@@ -322,28 +314,6 @@
       "priority": 10000
     },
     {
-      "fullPath": "presets/4.3/rc_link/defaults.txt",
-      "hash": "dd9a493fb69537b8b495fbfa6f39477d69dba0c2538a2f2de68aa5a469616f05",
-      "title": "Reset RC related settings",
-      "firmware_version": [
-        "4.3"
-      ],
-      "category": "RC_LINK",
-      "status": "OFFICIAL",
-      "keywords": [
-        "defaults",
-        "Rx",
-        "RC",
-        "reset",
-        "rc link",
-        "rc_link",
-        "smoothing",
-        "rc_smoothing"
-      ],
-      "author": "Betaflight",
-      "priority": 0
-    },
-    {
       "fullPath": "presets/4.3/rc_link/DJI_Normal.txt",
       "hash": "64ec98f7b8ddb571d63360471b752547b762aa7522af48c8cc0ef00f87170615",
       "title": "DJI Normal",
@@ -398,24 +368,6 @@
       ],
       "author": "Betaflight",
       "priority": 0
-    },
-    {
-      "fullPath": "presets/4.3/vtx/defaults.txt",
-      "hash": "f771542d93f15f993d39d97f9004ede104ba7dfebff45f68863aa25f30275388",
-      "title": "Default 4.3 VTX settings",
-      "firmware_version": [
-        "4.3"
-      ],
-      "category": "VTX",
-      "status": "OFFICIAL",
-      "keywords": [
-        "defaults",
-        "reset",
-        "clear",
-        "vtx"
-      ],
-      "author": "Betaflight",
-      "priority": 1000000
     }
   ]
 }
