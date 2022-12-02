@@ -16,11 +16,11 @@
 #$ DESCRIPTION: 
 #$ DESCRIPTION: Default rates: R910, P910, Y800
 #$ DESCRIPTION: 
-#$ DESCRIPTION:  
-#$ DESCRIPTION: <h1>Links</h1>
-#$ DESCRIPTION: - [LOSTLOCALHOST5](https://lostlocalhost.com)
-#$ DESCRIPTION: - [DFW FPV](https://dfwfpv.club)
-#$ DESCRIPTION: - [DFW Multirotor Discord](https://dc.dfwfpv.club)
+#$ DESCRIPTION: 
+#$ DESCRIPTION: <h3>Links</h3>
+#$ DESCRIPTION:  - [LOSTLOCALHOST6](https://lostlocalhost.com)
+#$ DESCRIPTION:  - [DFW FPV](https://dfwfpv.club)
+#$ DESCRIPTION:  - [DFW Multirotor Discord](https://dc.dfwfpv.club)
 #$ INCLUDE: presets/4.3/rates/defaults.txt
 
 set rates_type = ACTUAL
