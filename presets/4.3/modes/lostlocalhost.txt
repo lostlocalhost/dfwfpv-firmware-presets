@@ -17,13 +17,13 @@
 #$ DESCRIPTION: AUX3: Angle, Acro, Flip<br>
 #$ DESCRIPTION: AUX4: Disarm, Arm, Arm<br>
 #$ DESCRIPTION: <br><br>
-#$ DESCRIPTION: <img src="https://github.com/lostlocalhost/firmware-presets/raw/1633308e7d206628f3b5b6de86759b5925bb06ea/presets/4.3/modes/img/modes1_main.JPG" width="500px" style="margin-left: auto; margin-right: auto; display: block;"/><br><img src="https://github.com/lostlocalhost/firmware-presets/raw/1633308e7d206628f3b5b6de86759b5925bb06ea/presets/4.3/modes/img/modes1_adj.JPG" width="500px" style="margin-left: auto; margin-right: auto; display: block;"/>
+#$ DESCRIPTION: a href="https://github.com/lostlocalhost/firmware-presets/raw/1633308e7d206628f3b5b6de86759b5925bb06ea/presets/4.3/modes/img/modes1_main.JPG"><img src="https://github.com/lostlocalhost/firmware-presets/raw/1633308e7d206628f3b5b6de86759b5925bb06ea/presets/4.3/modes/img/modes1_main.JPG" width="500px" style="margin-left: auto; margin-right: auto; display: block;"/></a><br><a href="https://github.com/lostlocalhost/firmware-presets/raw/1633308e7d206628f3b5b6de86759b5925bb06ea/presets/4.3/modes/img/modes1_adj.JPG"><img src="https://github.com/lostlocalhost/firmware-presets/raw/1633308e7d206628f3b5b6de86759b5925bb06ea/presets/4.3/modes/img/modes1_adj.JPG" width="500px" style="margin-left: auto; margin-right: auto; display: block;"/></a>
 #$ DESCRIPTION:
 #$ DESCRIPTION: 
 #$ DESCRIPTION:
 #$ DESCRIPTION: <h3>Links</h3>
 #$ DESCRIPTION:
-#$ DESCRIPTION: - [LOSTLOCALHOST9](https://www.youtube.com/c/lostlocalhost)
+#$ DESCRIPTION: - [LOSTLOCALHOST](https://www.youtube.com/c/lostlocalhost)
 #$ DESCRIPTION: - [DFW FPV](https://dfwfpv.club)
 #$ DESCRIPTION: - [DFW Multirotor Discord](https://dc.dfwfpv.club)
 

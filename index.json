@@ -153,10 +153,6 @@
       "UAV Tech (Mark Spatz)"
     ],
     "keywords": [
-      "4S",
-      "5\"",
-      "5in",
-      "6S",
       "actual",
       "adjustments",
       "aux",
@@ -197,7 +193,7 @@
   "presets": [
     {
       "fullPath": "presets/4.3/bnf/lostlocalhost.txt",
-      "hash": "83e8e4167a67ad96257b91f4327423d8b154d7aefff4b9f97e2cab4a8e07b77c",
+      "hash": "6425c3263aef2133167f3fc1808596fbcb6ea03bd6a466e742b08c781beaeb06",
       "title": "lostlocalhost Official Nazgul XL5 Backup",
       "firmware_version": [
         "4.3"
@@ -274,7 +270,7 @@
     },
     {
       "fullPath": "presets/4.3/modes/lostlocalhost.txt",
-      "hash": "ed2f647c10751e38b61eaab971a2adbc958407442b7a7eca5e593d4c18aa910b",
+      "hash": "19361409cedb64a741a378bb92860dda545186ce801b5786f503d6a0b0bab55e",
       "title": "lostlocalhost Official Modes",
       "firmware_version": [
         "4.3"
@@ -312,7 +308,7 @@
     },
     {
       "fullPath": "presets/4.3/osd/lostlocalhost.txt",
-      "hash": "4e6bc0f9b615079b1b449a2f1df6a842047d45c5a7b657514847739cb4b0fa1c",
+      "hash": "5bdf77cc168cee83cd1a17a763d82034653ee6c79e2fba3daba4295c74117db1",
       "title": "lostlocalhost Official OSD - Main",
       "firmware_version": [
         "4.3"
@@ -347,7 +343,7 @@
     },
     {
       "fullPath": "presets/4.3/rates/lostlocalhost.txt",
-      "hash": "65e6bb78ade34f226ad032c999eab5826dbc7ec01beefb7174b5dc0f1fdfa58b",
+      "hash": "c898ac56ab7bef2e3d6b1c10a1c069797cbbb65e41cde2a57924768d9d409cd0",
       "title": "lostlocalhost Official Rates",
       "firmware_version": [
         "4.3",
@@ -442,25 +438,6 @@
       ],
       "author": "Betaflight",
       "priority": 0
-    },
-    {
-      "fullPath": "presets/4.3/tune/UAV_test.txt",
-      "hash": "c44e6918125e5add861c80afeeee258672e172dd151f0f7daa3fdcd8e25ed9ae",
-      "title": "UAV Tech - 5in (590-630g AUW)",
-      "firmware_version": [
-        "4.3"
-      ],
-      "category": "TUNE",
-      "status": "COMMUNITY",
-      "keywords": [
-        "4S",
-        "6S",
-        "5in",
-        "5\"",
-        "freestyle"
-      ],
-      "author": "UAV Tech (Mark Spatz)",
-      "priority": 1000000000000
     },
     {
       "fullPath": "presets/4.3/vtx/defaults.txt",
