@@ -137,11 +137,11 @@
       "4.4"
     ],
     "category": [
+      "BNF",
       "FILTERS",
       "LEDS",
       "MODES",
       "OSD",
-      "OTHER",
       "RATES",
       "RC_LINK",
       "TUNE",
@@ -191,6 +191,26 @@
     ]
   },
   "presets": [
+    {
+      "fullPath": "presets/4.3/bnf/lostlocalhost.txt",
+      "hash": "b583bad17f35a7bdc15863fad9887094a37570a74533e0785bd34e01c665663e",
+      "title": "lostlocalhost Official Nazgul XL5 Backup",
+      "firmware_version": [
+        "4.3"
+      ],
+      "category": "BNF",
+      "status": "COMMUNITY",
+      "keywords": [
+        "lostlocalhost",
+        "youtube",
+        "Nazgul",
+        "XL5",
+        "Backup"
+      ],
+      "author": "lostlocalhost",
+      "force_options_review": true,
+      "priority": 0
+    },
     {
       "fullPath": "presets/4.3/filters/defaults.txt",
       "hash": "94dd6e400f67d5bde88bf5a6952c83255db887da83dcc9b247a04ffac43f9cd2",
@@ -301,26 +321,6 @@
         "OSD"
       ],
       "author": "lostlocalhost",
-      "priority": 0
-    },
-    {
-      "fullPath": "presets/4.3/other/lostlocalhost.txt",
-      "hash": "29f1231466c2a3fb639118e305051216d632ac06f5948ef044c8da4a91696904",
-      "title": "lostlocalhost Official Nazgul XL5 Backup",
-      "firmware_version": [
-        "4.3"
-      ],
-      "category": "OTHER",
-      "status": "COMMUNITY",
-      "keywords": [
-        "lostlocalhost",
-        "youtube",
-        "Nazgul",
-        "XL5",
-        "Backup"
-      ],
-      "author": "lostlocalhost",
-      "force_options_review": true,
       "priority": 0
     },
     {
