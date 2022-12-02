@@ -1,6 +1,6 @@
 #$ TITLE: lostlocalhost Nazgul XL5 Backup
 #$ FIRMWARE_VERSION: 4.3
-#$ CATEGORY: OSD
+#$ CATEGORY: BNF
 #$ STATUS: COMMUNITY
 #$ KEYWORDS: lostlocalhost, Nazgul XL5 Backup
 #$ AUTHOR: lostlocalhost
