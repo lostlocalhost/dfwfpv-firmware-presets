@@ -11,7 +11,7 @@
 #$ DESCRIPTION:
 #$ DESCRIPTION: Details:
 #$ DESCRIPTION: -----------
-#$ DESCRIPTION: lostlocalhost Main OSD Elements. Default, Alternate, and GPS versions as options. Image is of default.
+#$ DESCRIPTION: lostlocalhost Main OSD Elements.<br>Default, Alternate, and GPS versions as options. Image is of default.<br>
 #$ DESCRIPTION:
 #$ DESCRIPTION: <center><img src="https://github.com/lostlocalhost/firmware-presets/raw/master/presets/4.3/osd/img/llh_osd1.png" width="500px"/></center>
 #$ DESCRIPTION:
