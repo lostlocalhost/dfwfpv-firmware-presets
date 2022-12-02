@@ -8,7 +8,7 @@
 
 #$ PARSER: MARKED
 
-#$ DESCRIPTION: <center><a href="https://www.youtube.com/c/lostlocalhost"><img src="https://github.com/lostlocalhost/firmware-presets/raw/6fe991ae278888544130ac92ad1082e8ff7efd8f/presets/img/LLH.png" width="100px"/></a><a href="https://dfwfpv.club"><img src="https://github.com/lostlocalhost/firmware-presets/raw/6fe991ae278888544130ac92ad1082e8ff7efd8f/presets/img/DFWFPV.png" width="250px"/></a></center><br>
+#$ DESCRIPTION: <center><a href="https://www.youtube.com/c/lostlocalhost"><img src="https://github.com/lostlocalhost/dfw-firmware-presets/raw/master/presets/img/LLH.png" width="100px"/></a><a href="https://dfwfpv.club"><img src="https://github.com/lostlocalhost/dfw-firmware-presets/raw/master/presets/img/DFWFPV.png" width="250px"/></a></center><br>
 #$ DESCRIPTION:
 #$ DESCRIPTION: Details:
 #$ DESCRIPTION: -----------

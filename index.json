@@ -138,7 +138,6 @@
     ],
     "category": [
       "BNF",
-      "LEDS",
       "MODES",
       "OSD",
       "RATES",
@@ -160,7 +159,6 @@
       "DJI",
       "expert",
       "freestyle",
-      "leds",
       "link",
       "lostlocalhost",
       "mode",
@@ -183,7 +181,7 @@
   "presets": [
     {
       "fullPath": "presets/4.3/bnf/lostlocalhost_Apex.txt",
-      "hash": "c14681b8b76ea16000abf486848869763ac03a6d46b0e09777d6700d1234c5f7",
+      "hash": "ad928538cbecf00b4ae0e5da77d5e2ead38e71d98d7cd2571cc2a49ea8d8bfd1",
       "title": "lostlocalhost Official Apex Backup",
       "firmware_version": [
         "4.3"
@@ -202,7 +200,7 @@
     },
     {
       "fullPath": "presets/4.3/bnf/lostlocalhost_XL5.txt",
-      "hash": "065b4dfc8003982ad0e98fdef4e1bc83f3fe9604b64eaba61a968d66d35e4728",
+      "hash": "b5ea1e2f29149b2024e62aeb6168d8764da17a403b2300bf9652e33dec885126",
       "title": "lostlocalhost Official Nazgul XL5 Backup",
       "firmware_version": [
         "4.3"
@@ -221,25 +219,8 @@
       "priority": 0
     },
     {
-      "fullPath": "presets/4.3/leds/defaults.txt",
-      "hash": "c1dc1b69bd7b001253f05b56f3f6c3d60e93615c718f30a3b815846f445d1f6c",
-      "title": "Default 4.3 LED settings",
-      "firmware_version": [
-        "4.3"
-      ],
-      "category": "LEDS",
-      "status": "OFFICIAL",
-      "keywords": [
-        "defaults",
-        "reset",
-        "leds"
-      ],
-      "author": "Betaflight",
-      "priority": 0
-    },
-    {
       "fullPath": "presets/4.3/modes/lostlocalhost.txt",
-      "hash": "3937168349f3b71e77561f2f9b81c1db9c9dcd59226d86f9909a2e3486f5fdca",
+      "hash": "e9885c4b702ffc94a0aab6ca6bb01b9d020eef10730a83c62e93569d70828959",
       "title": "lostlocalhost Official Modes",
       "firmware_version": [
         "4.3"
@@ -260,7 +241,7 @@
     },
     {
       "fullPath": "presets/4.3/osd/lostlocalhost.txt",
-      "hash": "0834a8436e5157a16ebc8ba2c2d8c0ddc24c7d8fdaafde9e72f5c7d288dfa478",
+      "hash": "e0146435247910507e47bb87e06b70e054ddbfb9a70749eb07015d6f469d79c6",
       "title": "lostlocalhost Official OSD - Main",
       "firmware_version": [
         "4.3"
@@ -295,7 +276,7 @@
     },
     {
       "fullPath": "presets/4.3/rates/lostlocalhost.txt",
-      "hash": "36bcad74cb3a55fb9af76d6214ad35c65eafb6bdc88a3358f869383ad7cebbb0",
+      "hash": "36a0ce08b818ea540ec09222c1f0845c2f2e44351c4266abe5984eb942854e53",
       "title": "lostlocalhost Official Rates",
       "firmware_version": [
         "4.3",
