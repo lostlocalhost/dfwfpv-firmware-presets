@@ -141,6 +141,7 @@
       "LEDS",
       "MODES",
       "OSD",
+      "OTHER",
       "RATES",
       "RC_LINK",
       "TUNE",
@@ -155,6 +156,7 @@
       "actual",
       "adjustments",
       "aux",
+      "Backup",
       "clear",
       "defaults",
       "DJI",
@@ -167,9 +169,10 @@
       "lostlocalhost",
       "mode",
       "modes",
-      "Nazgul XL5 Backup",
+      "Nazgul",
       "OSD",
       "pid",
+      "rate",
       "rates",
       "RC",
       "rc link",
@@ -183,26 +186,11 @@
       "transmitter",
       "tune",
       "vtx",
+      "XL5",
       "youtube"
     ]
   },
   "presets": [
-    {
-      "fullPath": "presets/4.3/bnf/lostlocalhost.txt",
-      "hash": "ef087d898f624a1d1582dad469431cf1c95ba507d78372baea489cec38baf55e",
-      "title": "lostlocalhost Nazgul XL5 Backup",
-      "firmware_version": [
-        "4.3"
-      ],
-      "category": "OSD",
-      "status": "COMMUNITY",
-      "keywords": [
-        "lostlocalhost",
-        "Nazgul XL5 Backup"
-      ],
-      "author": "lostlocalhost",
-      "priority": 0
-    },
     {
       "fullPath": "presets/4.3/filters/defaults.txt",
       "hash": "94dd6e400f67d5bde88bf5a6952c83255db887da83dcc9b247a04ffac43f9cd2",
@@ -262,8 +250,8 @@
     },
     {
       "fullPath": "presets/4.3/modes/lostlocalhost.txt",
-      "hash": "fc4efeceaa5c5361bc741e14806c891bdaa4efd21f2aa4e54a0bbfdcf42fee91",
-      "title": "lostlocalhost modes",
+      "hash": "4bbd18baab8c7fcad630d4e41309a8f4833b06d34b3b5eb73299d988e724dbb5",
+      "title": "lostlocalhost Official Modes",
       "firmware_version": [
         "4.3"
       ],
@@ -271,6 +259,7 @@
       "status": "COMMUNITY",
       "keywords": [
         "lostlocalhost",
+        "youtube",
         "mode",
         "modes",
         "adjustments",
@@ -299,8 +288,8 @@
     },
     {
       "fullPath": "presets/4.3/osd/lostlocalhost.txt",
-      "hash": "d1ca46559e3a76f90d72742ec2e665cdc944fcf6117f5590097ca65158074572",
-      "title": "lostlocalhost OSD - Main",
+      "hash": "f3a83417276c8652e5482e60e7704b4084ec160dd8962b0bcba4e816f3755b58",
+      "title": "lostlocalhost Official OSD - Main",
       "firmware_version": [
         "4.3"
       ],
@@ -308,9 +297,30 @@
       "status": "COMMUNITY",
       "keywords": [
         "lostlocalhost",
+        "youtube",
         "OSD"
       ],
       "author": "lostlocalhost",
+      "priority": 0
+    },
+    {
+      "fullPath": "presets/4.3/other/lostlocalhost.txt",
+      "hash": "29f1231466c2a3fb639118e305051216d632ac06f5948ef044c8da4a91696904",
+      "title": "lostlocalhost Official Nazgul XL5 Backup",
+      "firmware_version": [
+        "4.3"
+      ],
+      "category": "OTHER",
+      "status": "COMMUNITY",
+      "keywords": [
+        "lostlocalhost",
+        "youtube",
+        "Nazgul",
+        "XL5",
+        "Backup"
+      ],
+      "author": "lostlocalhost",
+      "force_options_review": true,
       "priority": 0
     },
     {
@@ -333,7 +343,7 @@
     },
     {
       "fullPath": "presets/4.3/rates/lostlocalhost.txt",
-      "hash": "479c44c26dfaef12df4aeb69ebd89e2e3623301652979c81dd09041866b975dc",
+      "hash": "ffab13a357ccccfda5bc586d6f0cc6c845ebd5503770edd7bb1de5107fb48a50",
       "title": "lostlocalhost Official Rates",
       "firmware_version": [
         "4.3",
@@ -342,9 +352,11 @@
       "category": "RATES",
       "status": "COMMUNITY",
       "keywords": [
-        "youtube",
         "lostlocalhost",
-        "freestyle"
+        "youtube",
+        "freestyle",
+        "rate",
+        "rates"
       ],
       "author": "lostlocalhost",
       "priority": 10000
