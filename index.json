@@ -181,7 +181,7 @@
   "presets": [
     {
       "fullPath": "presets/4.3/bnf/lostlocalhost_Apex.txt",
-      "hash": "ad928538cbecf00b4ae0e5da77d5e2ead38e71d98d7cd2571cc2a49ea8d8bfd1",
+      "hash": "52904e1c35579c031b640f9af8bbd1e6df52cdc0099f18f5ac1ac930a9f01ffc",
       "title": "lostlocalhost Official Apex Backup",
       "firmware_version": [
         "4.3"
@@ -200,7 +200,7 @@
     },
     {
       "fullPath": "presets/4.3/bnf/lostlocalhost_XL5.txt",
-      "hash": "b5ea1e2f29149b2024e62aeb6168d8764da17a403b2300bf9652e33dec885126",
+      "hash": "bb882f36d388854e7bc5446299981295f4a9a4915c0b53b61b1f49a19b9ef5cd",
       "title": "lostlocalhost Official Nazgul XL5 Backup",
       "firmware_version": [
         "4.3"
@@ -220,7 +220,7 @@
     },
     {
       "fullPath": "presets/4.3/modes/lostlocalhost.txt",
-      "hash": "e9885c4b702ffc94a0aab6ca6bb01b9d020eef10730a83c62e93569d70828959",
+      "hash": "0497c798c7fe7724e5669593675c79c72676ba2fe40da812ec5077f8b6264ae9",
       "title": "lostlocalhost Official Modes",
       "firmware_version": [
         "4.3"
@@ -241,7 +241,7 @@
     },
     {
       "fullPath": "presets/4.3/osd/lostlocalhost.txt",
-      "hash": "e3774ae2e414566f4ecb5d7c78363eb2d92e0b28d23b862b4f2aee277ae9e0fa",
+      "hash": "5a0151561a5a6133af36d956369b8ed2062924dd11319de49f8e4b4a17eef344",
       "title": "lostlocalhost Official OSD",
       "firmware_version": [
         "4.3"
@@ -276,7 +276,7 @@
     },
     {
       "fullPath": "presets/4.3/rates/lostlocalhost.txt",
-      "hash": "36a0ce08b818ea540ec09222c1f0845c2f2e44351c4266abe5984eb942854e53",
+      "hash": "bcf953e528724bc2f8c73158a5030e234a0efcab87a7e95bce96f0755543cfe9",
       "title": "lostlocalhost Official Rates",
       "firmware_version": [
         "4.3",

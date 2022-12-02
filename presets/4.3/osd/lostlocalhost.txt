@@ -7,13 +7,13 @@
 
 #$ PARSER: MARKED
 
-#$ DESCRIPTION: <center><a href="https://www.youtube.com/c/lostlocalhost"><img src="https://github.com/lostlocalhost/dfw-firmware-presets/raw/master/presets/img/LLH.png" width="100px"/></a><a href="https://dfwfpv.club"><img src="https://github.com/lostlocalhost/dfw-firmware-presets/raw/master/presets/img/DFWFPV.png" width="250px"/></a></center><br>
+#$ DESCRIPTION: <center><a href="https://www.youtube.com/c/lostlocalhost"><img src="https://github.com/lostlocalhost/dfwfpv-firmware-presets/raw/master/presets/img/LLH.png" width="100px"/></a><a href="https://dfwfpv.club"><img src="https://github.com/lostlocalhost/dfwfpv-firmware-presets/raw/master/presets/img/DFWFPV.png" width="250px"/></a></center><br>
 #$ DESCRIPTION:
 #$ DESCRIPTION: Details:
 #$ DESCRIPTION: -----------
 #$ DESCRIPTION: lostlocalhost Main OSD Elements.<br>Default, Alternate, and GPS versions as options. Image is of default.<br>
 #$ DESCRIPTION:
-#$ DESCRIPTION: <center><img src="https://github.com/lostlocalhost/dfw-firmware-presets/raw/master/presets/4.3/osd/img/llh_osd1.png" width="500px"/></center>
+#$ DESCRIPTION: <center><img src="https://github.com/lostlocalhost/dfwfpv-firmware-presets/raw/master/presets/4.3/osd/img/llh_osd1.png" width="500px"/></center>
 #$ DESCRIPTION:
 #$ DESCRIPTION: <br>
 #$ DESCRIPTION: <h3>Links</h3>
