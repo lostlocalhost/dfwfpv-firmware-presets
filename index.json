@@ -193,7 +193,7 @@
   "presets": [
     {
       "fullPath": "presets/4.3/bnf/lostlocalhost.txt",
-      "hash": "c83ce0ca6bc6b7a005c065dd34da1fac20daa4b9aa375ddc36ebfb5d930bc282",
+      "hash": "cfaa0860c68310b0b2d2f3635bd0bca481fb0cd0aab16f3eb2eaacd15e93b725",
       "title": "lostlocalhost Official Nazgul XL5 Backup",
       "firmware_version": [
         "4.3"
@@ -270,7 +270,7 @@
     },
     {
       "fullPath": "presets/4.3/modes/lostlocalhost.txt",
-      "hash": "4770d10dab74f80c9bc0f2511cec2bd244d2d9589667bd128ee782773e35a40e",
+      "hash": "247d82b519a0ac00f9448c6754f1daf5716ae98519d51022a981f346d592dc9b",
       "title": "lostlocalhost Official Modes",
       "firmware_version": [
         "4.3"
@@ -308,7 +308,7 @@
     },
     {
       "fullPath": "presets/4.3/osd/lostlocalhost.txt",
-      "hash": "511c0a8e37d49227acd07836c4f02ccf200ddb6002c5ad3af74c79359190ae45",
+      "hash": "f4a6087a5033dfedefa93206512c132b87048e1a7899a7a5f75f42a8eca0d434",
       "title": "lostlocalhost Official OSD - Main",
       "firmware_version": [
         "4.3"
@@ -343,7 +343,7 @@
     },
     {
       "fullPath": "presets/4.3/rates/lostlocalhost.txt",
-      "hash": "152ef053baa56164bd659a98629d835f994453b00bac4b731dd190d6b50c892b",
+      "hash": "ef2af9a76a7bb90404270c990fc2800942bcba9361013daaae45366a507f935e",
       "title": "lostlocalhost Official Rates",
       "firmware_version": [
         "4.3",

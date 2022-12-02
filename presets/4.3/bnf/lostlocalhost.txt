@@ -12,9 +12,9 @@
 #$ DESCRIPTION: There are different tune and rate profiles included on this - though tune profile 1 is typically used.
 #$ DESCRIPTION: The three rateprofiles are mapped to AUX2 switch in the Adjustments tab.
 #$ DESCRIPTION: 
-#$ DESCRIPTION: [lostlocalhost.com](https://lostlocalhost.com)
-#$ DESCRIPTION: [DFW FPV](https://dfwfpv.club)
-#$ DESCRIPTION: [DFW Multirotor Discord](https://dc.dfwfpv.club)
+#$ DESCRIPTION: - [lostlocalhost.com](https://lostlocalhost.com)
+#$ DESCRIPTION: - [DFW FPV](https://dfwfpv.club)
+#$ DESCRIPTION: - [DFW Multirotor Discord](https://dc.dfwfpv.club)
 #$ FORCE_OPTIONS_REVIEW: True
 
 # version
