@@ -1,6 +1,6 @@
 #$ TITLE: lostlocalhost Official Nazgul XL5 Backup
 #$ FIRMWARE_VERSION: 4.3
-#$ CATEGORY: BNF
+#$ CATEGORY: OTHER
 #$ STATUS: COMMUNITY
 #$ KEYWORDS: lostlocalhost, youtube, Nazgul, XL5, Backup
 #$ AUTHOR: lostlocalhost
