@@ -10,7 +10,9 @@
 #$ DESCRIPTION: AUX3: Angle, Acro, Flip
 #$ DESCRIPTION: AUX4: Disarm, Arm, Arm
 #$ DESCRIPTION:
-#$ DESCRIPTION: www.lostlocalhost.com
+#$ DESCRIPTION: [lostlocalhost.com](https://lostlocalhost.com)
+#$ DESCRIPTION: [DFW FPV](https://dfwfpv.club)
+#$ DESCRIPTION: [DFW Multirotor Discord](https://dc.dfwfpv.club)
 
 # aux switch settings
 

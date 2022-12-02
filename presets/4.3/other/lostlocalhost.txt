@@ -10,8 +10,10 @@
 #$ DESCRIPTION: There are different tune and rate profiles included on this - though tune profile 1 is typically used.
 #$ DESCRIPTION: The three rateprofiles are mapped to AUX2 switch in the Adjustments tab.
 #$ DESCRIPTION: 
-#$ DESCRIPTION: 
-#$ DESCRIPTION: www.lostlocalhost.com
+#$ DESCRIPTION: [lostlocalhost.com](https://lostlocalhost.com)
+#$ DESCRIPTION: [DFW FPV](https://dfwfpv.club)
+#$ DESCRIPTION: [DFW Multirotor Discord](https://dc.dfwfpv.club)
+#$ FORCE_OPTIONS_REVIEW: True
 
 # version
 # Betaflight / STM32F7X2 (S7X2) 4.3.0 Jun 14 2022 / 00:50:37 (229ac66) MSP API: 1.44

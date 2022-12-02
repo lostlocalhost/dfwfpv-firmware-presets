@@ -6,7 +6,9 @@
 #$ AUTHOR: lostlocalhost
 #$ DESCRIPTION: lostlocalhost Main OSD Elements
 #$ DESCRIPTION:
-#$ DESCRIPTION: www.lostlocalhost.com
+#$ DESCRIPTION: [lostlocalhost.com](https://lostlocalhost.com)
+#$ DESCRIPTION: [DFW FPV](https://dfwfpv.club)
+#$ DESCRIPTION: [DFW Multirotor Discord](https://dc.dfwfpv.club)
 
 set osd_units = IMPERIAL
 set osd_warn_arming_disable = ON
