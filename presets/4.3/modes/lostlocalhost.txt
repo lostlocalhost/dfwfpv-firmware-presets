@@ -11,6 +11,8 @@
 #$ DESCRIPTION: AUX3: Angle, Acro, Flip
 #$ DESCRIPTION: AUX4: Disarm, Arm, Arm
 #$ DESCRIPTION:
+#$ DESCRIPTION: <img src="https://github.com/lostlocalhost/firmware-presets/blob/1633308e7d206628f3b5b6de86759b5925bb06ea/presets/4.3/modes/img/modes1_main.JPG"><br><img src="https://github.com/lostlocalhost/firmware-presets/blob/1633308e7d206628f3b5b6de86759b5925bb06ea/presets/4.3/modes/img/modes1_adj.JPG">
+#$ DESCRIPTION: 
 #$ DESCRIPTION: [lostlocalhost.com](https://lostlocalhost.com)
 #$ DESCRIPTION: [DFW FPV](https://dfwfpv.club)
 #$ DESCRIPTION: [DFW Multirotor Discord](https://dc.dfwfpv.club)
