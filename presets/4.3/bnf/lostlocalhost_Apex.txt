@@ -27,17 +27,9 @@
 #$ DESCRIPTION: - [DFW Multirotor Discord](https://dc.dfwfpv.club)
 #$ FORCE_OPTIONS_REVIEW: True
 
-# version
-# Betaflight / STM32F7X2 (S7X2) 4.3.0 Jun 14 2022 / 00:50:37 (229ac66) MSP API: 1.44
-# config: manufacturer_id: SPBE, board_name: SPEEDYBEEF7V2, version: 55694498, date: 2021-05-15T13:56:51Z
 
 # start the command batch
 batch start
-
-board_name SPEEDYBEEF7V2
-manufacturer_id SPBE
-mcu_id 001a002f5931500720393539
-signature 
 
 # name: llhost-apex
 
