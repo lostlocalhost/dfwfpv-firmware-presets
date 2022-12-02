@@ -8,7 +8,7 @@
 
 #$ PARSER: MARKED
 
-#$ DESCRIPTION: <center><img src="https://github.com/lostlocalhost/firmware-presets/raw/6fe991ae278888544130ac92ad1082e8ff7efd8f/presets/img/LLH.png" width="100px"/><img src="https://github.com/lostlocalhost/firmware-presets/raw/6fe991ae278888544130ac92ad1082e8ff7efd8f/presets/img/DFWFPV.png" width="250px"/></center><br>
+#$ DESCRIPTION: <center><a href="https://www.youtube.com/c/lostlocalhost"><img src="https://github.com/lostlocalhost/firmware-presets/raw/6fe991ae278888544130ac92ad1082e8ff7efd8f/presets/img/LLH.png" width="100px"/></a><a href="https://dfwfpv.club"><img src="https://github.com/lostlocalhost/firmware-presets/raw/6fe991ae278888544130ac92ad1082e8ff7efd8f/presets/img/DFWFPV.png" width="250px"/></a></center><br>
 #$ DESCRIPTION:
 #$ DESCRIPTION: Details:
 #$ DESCRIPTION: -----------
@@ -18,9 +18,9 @@
 #$ DESCRIPTION: 
 #$ DESCRIPTION: 
 #$ DESCRIPTION: <h3>Links</h3>
-#$ DESCRIPTION:  - [LOSTLOCALHOST6](https://lostlocalhost.com)
-#$ DESCRIPTION:  - [DFW FPV](https://dfwfpv.club)
-#$ DESCRIPTION:  - [DFW Multirotor Discord](https://dc.dfwfpv.club)
+#$ DESCRIPTION: - [LOSTLOCALHOST7](https://www.youtube.com/c/lostlocalhost)
+#$ DESCRIPTION: - [DFW FPV](https://dfwfpv.club)
+#$ DESCRIPTION: - [DFW Multirotor Discord](https://dc.dfwfpv.club)
 #$ INCLUDE: presets/4.3/rates/defaults.txt
 
 set rates_type = ACTUAL
