@@ -28,7 +28,7 @@
 
 batch start
 
-# name: RSSI DBM
+# name: llh-xl5
 
 # resources
 resource BEEPER 1 C15
