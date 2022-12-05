@@ -25,11 +25,17 @@
 #$ DESCRIPTION: - [LOSTLOCALHOST](https://www.youtube.com/c/lostlocalhost)
 #$ DESCRIPTION: - [DFW FPV](https://dfwfpv.club)
 #$ DESCRIPTION: - [DFW Multirotor Discord](https://dc.dfwfpv.club)
+#$ FORCE_OPTIONS_REVIEW:TRUE
 
 batch start
 
 # name: llh-xl5
 
+#$ OPTION BEGIN (UNCHECKED): Resources
+
+#$ OPTION END
+
+#$ OPTION BEGIN (UNCHECKED): Resources/Timer/DMA
 # resources
 resource BEEPER 1 C15
 resource MOTOR 1 C08
@@ -229,7 +235,9 @@ dma pin B00 0
 # pin B00: DMA1 Stream 7 Channel 5
 dma pin A01 0
 # pin A01: DMA1 Stream 6 Channel 3
+#$ OPTION END
 
+#$ OPTION BEGIN (UNCHECKED): Features
 # feature
 feature -RX_PPM
 feature -INFLIGHT_ACC_CAL
@@ -259,7 +267,10 @@ feature LED_STRIP
 feature OSD
 feature AIRMODE
 feature ANTI_GRAVITY
+#$ OPTION END
 
+
+#$ OPTION BEGIN (UNCHECKED): Serial/Mixer/Servos
 # serial
 serial 20 1 115200 57600 0 115200
 serial 0 1 115200 57600 0 115200
@@ -285,8 +296,10 @@ servo 7 1000 2000 1500 100 -1
 
 # servo mixer
 smix reset
+#$ OPTION END
 
 
+#$ OPTION BEGIN (UNCHECKED): Beeper/Beacon
 # beeper
 beeper GYRO_CALIBRATED
 beeper -RX_LOST
@@ -316,10 +329,15 @@ beeper RC_SMOOTHING_INIT_FAIL
 # beacon
 beacon RX_LOST
 beacon RX_SET
+#$ OPTION END
 
+
+#$ OPTION BEGIN (UNCHECKED): Other
 # map
 map AETR1234
+#$ OPTION END
 
+#$ OPTION BEGIN (UNCHECKED): LEDs
 # led
 led 0 0,0::C:11
 led 1 0,0::C:0
@@ -421,7 +439,9 @@ mode_color 6 8 0
 mode_color 6 9 0
 mode_color 6 10 0
 mode_color 7 0 3
+#$ OPTION END
 
+#$ OPTION BEGIN (UNCHECKED): AUX/VTX
 # aux
 aux 0 0 3 1350 2100 0 0
 aux 1 1 2 900 1200 0 0
@@ -505,7 +525,10 @@ vtx 6 0 0 0 0 900 900
 vtx 7 0 0 0 0 900 900
 vtx 8 0 0 0 0 900 900
 vtx 9 0 0 0 0 900 900
+#$ OPTION END
 
+
+#$ OPTION BEGIN (UNCHECKED): Setup
 # rxfail
 rxfail 0 a
 rxfail 1 a
@@ -802,6 +825,9 @@ set sdcard_spi_bus = 0
 set sdio_clk_bypass = OFF
 set sdio_use_cache = OFF
 set sdio_use_4bit_width = OFF
+#$ OPTION END
+
+#$ OPTION BEGIN (UNCHECKED): OSD
 set osd_units = IMPERIAL
 set osd_warn_arming_disable = ON
 set osd_warn_batt_not_full = OFF
@@ -936,6 +962,9 @@ set osd_camera_frame_height = 11
 set osd_stat_avg_cell_value = OFF
 set osd_framerate_hz = 12
 set osd_menu_background = TRANSPARENT
+#$ OPTION END
+
+#$ OPTION BEGIN (UNCHECKED): Tune/Filters
 set task_statistics = ON
 set debug_mode = GYRO_SCALED
 set rate_6pos_switch = OFF
@@ -1361,7 +1390,9 @@ set simplified_dterm_filter_multiplier = 100
 
 # restore original profile selection
 profile 0
+#$ OPTION END
 
+#$ OPTION BEGIN (UNCHECKED): Rates
 rateprofile 0
 
 # rateprofile 0
@@ -1532,6 +1563,7 @@ set pitch_level_expo = 0
 
 # restore original rateprofile selection
 rateprofile 0
+#$ OPTION END
 
 # save configuration
 save

@@ -199,7 +199,7 @@
     },
     {
       "fullPath": "presets/4.3/bnf/lostlocalhost_XL5.txt",
-      "hash": "88f87852cf26be32eb98e1eb84871fedd0e03fb3f6b139b894dc08d5945ca66a",
+      "hash": "2269f870790488719c9bf228a374c8e60258971bb1e5d51c7f680a7ea6e48132",
       "title": "lostlocalhost Official Nazgul XL5 Backup",
       "firmware_version": [
         "4.3"
@@ -214,6 +214,7 @@
         "Backup"
       ],
       "author": "lostlocalhost (Brian S)",
+      "force_options_review": true,
       "priority": 0
     },
     {
