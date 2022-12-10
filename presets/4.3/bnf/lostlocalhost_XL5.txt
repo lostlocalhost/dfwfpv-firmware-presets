@@ -29,11 +29,7 @@
 
 batch start
 
-# name: llh-xl5
-
-#$ OPTION BEGIN (UNCHECKED): Resources
-
-#$ OPTION END
+# name: llhost-xl5
 
 #$ OPTION BEGIN (UNCHECKED): Resources/Timer/DMA
 # resources
@@ -331,8 +327,7 @@ beacon RX_LOST
 beacon RX_SET
 #$ OPTION END
 
-
-#$ OPTION BEGIN (UNCHECKED): Other
+#$ OPTION BEGIN (UNCHECKED): Mapping
 # map
 map AETR1234
 #$ OPTION END
