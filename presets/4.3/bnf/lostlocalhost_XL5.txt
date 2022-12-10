@@ -12,6 +12,7 @@
 #$ DESCRIPTION: Details:
 #$ DESCRIPTION: -----------
 #$ DESCRIPTION: 'dump all' backup of lostlocalhosts Nazgul XL5 Build. 
+#$ DESCRIPTION: WARNING: This is build on the IFLIGHT_SUCCEX_E_F7(STM32F7X2) flight controller. Loading on others may have unintended results.
 #$ DESCRIPTION: This is the exact setup used by lostlocalhost. If you decide to use this, take the time to carefully review all aspects of this setup! You are responsible for your own build and tune!
 #$ DESCRIPTION:
 #$ DESCRIPTION: <br>

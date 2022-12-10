@@ -181,7 +181,7 @@
   "presets": [
     {
       "fullPath": "presets/4.3/bnf/lostlocalhost_Apex.txt",
-      "hash": "04fdd08b45c9ef02fdcb8e816a4915934ceab0f07a9e0f08a52dccf80bbbf9fa",
+      "hash": "996a76f970d3322c150b321c070e2c546b7f05bd84861ce7f1e865b2e61aad1c",
       "title": "lostlocalhost Official Apex Backup",
       "firmware_version": [
         "4.3"
@@ -200,7 +200,7 @@
     },
     {
       "fullPath": "presets/4.3/bnf/lostlocalhost_XL5.txt",
-      "hash": "420d43973c507536850fab45217fe7ec7dcaac99068083056f3a0a05c9d6e7a5",
+      "hash": "c629376c35b3def5f7b06c0f9078f4d06131df8c8d54b8747057f0c659c643d0",
       "title": "lostlocalhost Official Nazgul XL5 Backup",
       "firmware_version": [
         "4.3"
