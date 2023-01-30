@@ -1,16 +1,38 @@
+# Add This Preset Source to Betaflight
+
+In Betaflight Presets Tab:
+1. On the top right of the presets tab in betaflight, choose "Preset Sources..."
+2. Choose "Add new source"
+3. Enter a name. "DFW FPV Presets"
+4. Url: https://github.com/lostlocalhost/dfwfpv-firmware-presets
+5. GitHub branch: master
+6. Then on the presets window choose the "Make Active" button and the presets should show up.
+
+To get back to the default Betaflight presets go back to the Preset sources window and choose "Make Active" on the "Betaflight Official Presets" option.
+
+If you have a preset you'd like to add, email admin@dfwfpv.club with the preset file. All submissions will be reviewed and validated. If you're familiar with git, feel free to submit a request as well.
+
 # Firmware Presets
 
 A simple way to configure your Betaflight Flight Controller Firmware settings.
 
-- [Introduction](#introduction)
-- [Applying and using Presets](#applying-and-using-presets)
-- [Providing feedback](#providing-feedback)
-- [Custom sources](#custom-sources)
-- [Creating new presets](#creating-new-presets)
-- [Tips for preset authors](#tips-for-authors)
-- [Modifying existing presets](#modifying-existing-presets)
-- [Preset specifications](#preset-specifications)
-- [Credits](#credits)
+- [Add This Preset Source to Betaflight](#add-this-preset-source-to-betaflight)
+- [Firmware Presets](#firmware-presets)
+  - [Introduction](#introduction)
+  - [Applying and using Presets](#applying-and-using-presets)
+  - [Providing feedback to the Preset developer](#providing-feedback-to-the-preset-developer)
+  - [Custom sources](#custom-sources)
+  - [Creating new presets](#creating-new-presets)
+  - [Tips for authors](#tips-for-authors)
+  - [Modifying existing presets](#modifying-existing-presets)
+  - [Preset specifications](#preset-specifications)
+    - [Fields](#fields)
+    - [Example Preset structure:](#example-preset-structure)
+    - [Categories](#categories)
+    - [Setting a motor protocol](#setting-a-motor-protocol)
+    - [INCLUDE](#include)
+    - [OPTION](#option)
+  - [Credits](#credits)
 
 ## Introduction
 
