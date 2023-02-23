@@ -1,5 +1,5 @@
 #$ TITLE: lostlocalhost Official Modes
-#$ FIRMWARE_VERSION: 4.3
+#$ FIRMWARE_VERSION: 4.4
 #$ CATEGORY: MODES
 #$ STATUS: COMMUNITY
 #$ KEYWORDS: lostlocalhost, youtube, mode, modes, adjustments, aux, switch
