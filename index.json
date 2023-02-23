@@ -140,23 +140,19 @@
       "MODES",
       "OSD",
       "RATES",
-      "RC_LINK",
       "TUNE"
     ],
     "author": [
       "Betaflight",
-      "lostlocalhost (Brian S)",
-      "UAV Tech (Mark Spatz)"
+      "lostlocalhost (Brian S)"
     ],
     "keywords": [
       "actual",
       "adjustments",
       "aux",
       "defaults",
-      "DJI",
       "expert",
       "freestyle",
-      "link",
       "lostlocalhost",
       "mode",
       "modes",
@@ -164,11 +160,8 @@
       "pid",
       "rate",
       "rates",
-      "rc",
       "reset",
-      "SBUS fast",
       "switch",
-      "transmitter",
       "tune",
       "youtube"
     ]
@@ -176,10 +169,11 @@
   "presets": [
     {
       "fullPath": "presets/4.3/modes/lostlocalhost.txt",
-      "hash": "061664b861d2c5a844d236f35050b744e5bb2a31a4161e2ae37c1a0d89ccf23c",
-      "title": "lostlocalhost Official Modes",
+      "hash": "b29aef326fa19bdd8a6d1912a29bc096640831345f7154191e9dd449480b0984",
+      "title": "lostlocalhost Official Modes_DJI",
       "firmware_version": [
-        "4.3"
+        "4.3",
+        "4.4"
       ],
       "category": "MODES",
       "status": "COMMUNITY",
@@ -197,8 +191,8 @@
     },
     {
       "fullPath": "presets/4.3/osd/lostlocalhost.txt",
-      "hash": "febea9d2ac195ff438341c07f0675cef3186f1dca2c07680623ddb99b49442f3",
-      "title": "lostlocalhost Official OSD",
+      "hash": "43d30e381d588a3975c7ca7c891254cc1603a40b53a003c7cca86b7d64859c5d",
+      "title": "lostlocalhost Official OSD_43",
       "firmware_version": [
         "4.3"
       ],
@@ -211,81 +205,6 @@
       ],
       "author": "lostlocalhost (Brian S)",
       "priority": 0
-    },
-    {
-      "fullPath": "presets/4.3/rates/defaults.txt",
-      "hash": "3eb0eebc69558dcb5de2e985850026a0ca4b0634601f4b66c0f4ea36b2e17f91",
-      "title": "Default rates",
-      "firmware_version": [
-        "4.3",
-        "4.4"
-      ],
-      "category": "RATES",
-      "status": "OFFICIAL",
-      "keywords": [
-        "defaults",
-        "rates",
-        "actual"
-      ],
-      "author": "Betaflight",
-      "priority": 0
-    },
-    {
-      "fullPath": "presets/4.3/rates/lostlocalhost.txt",
-      "hash": "5056634caf635571e38a51c6f794f6a6938395cc82d9f3cd09040208d890553c",
-      "title": "lostlocalhost Official Rates",
-      "firmware_version": [
-        "4.4"
-      ],
-      "category": "RATES",
-      "status": "COMMUNITY",
-      "keywords": [
-        "lostlocalhost",
-        "youtube",
-        "freestyle",
-        "rate",
-        "rates"
-      ],
-      "author": "lostlocalhost (Brian S)",
-      "priority": 10000
-    },
-    {
-      "fullPath": "presets/4.3/rc_link/DJI_Normal.txt",
-      "hash": "64ec98f7b8ddb571d63360471b752547b762aa7522af48c8cc0ef00f87170615",
-      "title": "DJI Normal",
-      "firmware_version": [
-        "4.3"
-      ],
-      "category": "RC_LINK",
-      "status": "OFFICIAL",
-      "keywords": [
-        "DJI",
-        "rc",
-        "link",
-        "transmitter"
-      ],
-      "author": "UAV Tech (Mark Spatz)",
-      "force_options_review": true,
-      "priority": 10000000000
-    },
-    {
-      "fullPath": "presets/4.3/rc_link/DJI_SBUS_Fast.txt",
-      "hash": "d0ee30467a9b33dd7dd355dd55ed8798489658f9da9487e3dff52b29838a5fae",
-      "title": "DJI SBUS FAST",
-      "firmware_version": [
-        "4.3"
-      ],
-      "category": "RC_LINK",
-      "status": "OFFICIAL",
-      "keywords": [
-        "DJI",
-        "rc",
-        "link",
-        "SBUS fast"
-      ],
-      "author": "UAV Tech (Mark Spatz)",
-      "force_options_review": true,
-      "priority": 10000000000
     },
     {
       "fullPath": "presets/4.3/tune/reset_all.txt",
@@ -307,9 +226,10 @@
     },
     {
       "fullPath": "presets/4.4/modes/lostlocalhost.txt",
-      "hash": "8998d86f078ca83ea8c0183610bccd2b3a457ff7d619c923a21edf2549b7c0db",
-      "title": "lostlocalhost Official Modes",
+      "hash": "9695d7844b88f86112f98ba5284235d6df4749488feecfcaf468647fdf3cf6c3",
+      "title": "lostlocalhost Official Modes_tx16s",
       "firmware_version": [
+        "4.3",
         "4.4"
       ],
       "category": "MODES",
