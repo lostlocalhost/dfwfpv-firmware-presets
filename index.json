@@ -137,7 +137,6 @@
       "4.4"
     ],
     "category": [
-      "BNF",
       "MODES",
       "OSD",
       "RATES",
@@ -152,9 +151,7 @@
     "keywords": [
       "actual",
       "adjustments",
-      "Apex",
       "aux",
-      "Backup",
       "defaults",
       "DJI",
       "expert",
@@ -163,7 +160,6 @@
       "lostlocalhost",
       "mode",
       "modes",
-      "Nazgul",
       "OSD",
       "pid",
       "rate",
@@ -174,53 +170,13 @@
       "switch",
       "transmitter",
       "tune",
-      "XL5",
       "youtube"
     ]
   },
   "presets": [
     {
-      "fullPath": "presets/4.3/bnf/lostlocalhost_Apex.txt",
-      "hash": "727209de8af333e42b22647be9f2ccb73129a0a0b50693236f8531af7a7a7a7b",
-      "title": "lostlocalhost Official Apex Backup",
-      "firmware_version": [
-        "4.3"
-      ],
-      "category": "BNF",
-      "status": "COMMUNITY",
-      "keywords": [
-        "lostlocalhost",
-        "youtube",
-        "Apex",
-        "Backup"
-      ],
-      "author": "lostlocalhost (Brian S)",
-      "force_options_review": true,
-      "priority": 0
-    },
-    {
-      "fullPath": "presets/4.3/bnf/lostlocalhost_XL5.txt",
-      "hash": "647411e9cef013588ad2a1b079ce006f76671051d8a963f81af55589ee880562",
-      "title": "lostlocalhost Official Nazgul XL5 Backup",
-      "firmware_version": [
-        "4.3"
-      ],
-      "category": "BNF",
-      "status": "COMMUNITY",
-      "keywords": [
-        "lostlocalhost",
-        "youtube",
-        "Nazgul",
-        "XL5",
-        "Backup"
-      ],
-      "author": "lostlocalhost (Brian S)",
-      "force_options_review": true,
-      "priority": 0
-    },
-    {
       "fullPath": "presets/4.3/modes/lostlocalhost.txt",
-      "hash": "0497c798c7fe7724e5669593675c79c72676ba2fe40da812ec5077f8b6264ae9",
+      "hash": "061664b861d2c5a844d236f35050b744e5bb2a31a4161e2ae37c1a0d89ccf23c",
       "title": "lostlocalhost Official Modes",
       "firmware_version": [
         "4.3"
@@ -241,7 +197,7 @@
     },
     {
       "fullPath": "presets/4.3/osd/lostlocalhost.txt",
-      "hash": "5a0151561a5a6133af36d956369b8ed2062924dd11319de49f8e4b4a17eef344",
+      "hash": "febea9d2ac195ff438341c07f0675cef3186f1dca2c07680623ddb99b49442f3",
       "title": "lostlocalhost Official OSD",
       "firmware_version": [
         "4.3"
@@ -255,44 +211,6 @@
       ],
       "author": "lostlocalhost (Brian S)",
       "priority": 0
-    },
-    {
-      "fullPath": "presets/4.3/rates/defaults.txt",
-      "hash": "3eb0eebc69558dcb5de2e985850026a0ca4b0634601f4b66c0f4ea36b2e17f91",
-      "title": "Default rates",
-      "firmware_version": [
-        "4.3",
-        "4.4"
-      ],
-      "category": "RATES",
-      "status": "OFFICIAL",
-      "keywords": [
-        "defaults",
-        "rates",
-        "actual"
-      ],
-      "author": "Betaflight",
-      "priority": 0
-    },
-    {
-      "fullPath": "presets/4.3/rates/lostlocalhost.txt",
-      "hash": "bcf953e528724bc2f8c73158a5030e234a0efcab87a7e95bce96f0755543cfe9",
-      "title": "lostlocalhost Official Rates",
-      "firmware_version": [
-        "4.3",
-        "4.4"
-      ],
-      "category": "RATES",
-      "status": "COMMUNITY",
-      "keywords": [
-        "lostlocalhost",
-        "youtube",
-        "freestyle",
-        "rate",
-        "rates"
-      ],
-      "author": "lostlocalhost (Brian S)",
-      "priority": 10000
     },
     {
       "fullPath": "presets/4.3/rc_link/DJI_Normal.txt",
@@ -349,6 +267,81 @@
       ],
       "author": "Betaflight",
       "priority": 0
+    },
+    {
+      "fullPath": "presets/4.4/modes/lostlocalhost.txt",
+      "hash": "8998d86f078ca83ea8c0183610bccd2b3a457ff7d619c923a21edf2549b7c0db",
+      "title": "lostlocalhost Official Modes",
+      "firmware_version": [
+        "4.4"
+      ],
+      "category": "MODES",
+      "status": "COMMUNITY",
+      "keywords": [
+        "lostlocalhost",
+        "youtube",
+        "mode",
+        "modes",
+        "adjustments",
+        "aux",
+        "switch"
+      ],
+      "author": "lostlocalhost (Brian S)",
+      "priority": 0
+    },
+    {
+      "fullPath": "presets/4.4/osd/lostlocalhost.txt",
+      "hash": "b2cbd1fc2450a7dd8d3690ce2a6fb66095f092b7affeb965f9f3215e99a53c85",
+      "title": "lostlocalhost Official OSD",
+      "firmware_version": [
+        "4.4"
+      ],
+      "category": "OSD",
+      "status": "COMMUNITY",
+      "keywords": [
+        "lostlocalhost",
+        "youtube",
+        "OSD"
+      ],
+      "author": "lostlocalhost (Brian S)",
+      "priority": 0
+    },
+    {
+      "fullPath": "presets/4.4/rates/defaults.txt",
+      "hash": "3eb0eebc69558dcb5de2e985850026a0ca4b0634601f4b66c0f4ea36b2e17f91",
+      "title": "Default rates",
+      "firmware_version": [
+        "4.3",
+        "4.4"
+      ],
+      "category": "RATES",
+      "status": "OFFICIAL",
+      "keywords": [
+        "defaults",
+        "rates",
+        "actual"
+      ],
+      "author": "Betaflight",
+      "priority": 0
+    },
+    {
+      "fullPath": "presets/4.4/rates/lostlocalhost.txt",
+      "hash": "06608bcdfe74831ee60ab0fd8816cb45f5a0c2b905d9e6efcc401d484360dff5",
+      "title": "lostlocalhost Official Rates",
+      "firmware_version": [
+        "4.4"
+      ],
+      "category": "RATES",
+      "status": "COMMUNITY",
+      "keywords": [
+        "lostlocalhost",
+        "youtube",
+        "freestyle",
+        "rate",
+        "rates"
+      ],
+      "author": "lostlocalhost (Brian S)",
+      "priority": 10000
     }
   ]
 }
