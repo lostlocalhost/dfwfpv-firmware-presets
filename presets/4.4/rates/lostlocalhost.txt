@@ -1,5 +1,4 @@
 #$ TITLE: lostlocalhost Official Rates
-#$ FIRMWARE_VERSION: 4.3
 #$ FIRMWARE_VERSION: 4.4
 #$ CATEGORY: RATES
 #$ STATUS: COMMUNITY
