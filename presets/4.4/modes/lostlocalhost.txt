@@ -20,7 +20,7 @@
 #$ DESCRIPTION: AUX7: --, BzzMute, BzzOn<br>
 #$ DESCRIPTION: AUX8: PreARM<br>
 #$ DESCRIPTION: <br><br>
-#$ DESCRIPTION: <a href="https://github.com/lostlocalhost/dfwfpv-firmware-presets/raw/master/presets/4.4/modes/img/modes1_main.png"><img src="https://github.com/lostlocalhost/dfwfpv-firmware-presets/raw/master/presets/4.4/modes/img/modes1_main.png" width="500px" style="margin-left: auto; margin-right: auto; display: block;"/></a><br><a href="https://github.com/lostlocalhost/dfwfpv-firmware-presets/raw/master/presets/4.4/modes/img/modes1_adj.png"><img src="https://github.com/lostlocalhost/dfwfpv-firmware-presets/raw/master/presets/4.4/modes/img/modes1_adj.png" width="500px" style="margin-left: auto; margin-right: auto; display: block;"/></a>
+#$ DESCRIPTION: <a href="https://github.com/lostlocalhost/dfwfpv-firmware-presets/raw/master/presets/4.4/modes/img/modes1_main.png"><img src="https://github.com/lostlocalhost/dfwfpv-firmware-presets/raw/master/presets/4.4/modes/img/modes1_main.png" width="500px" style="margin-left: auto; margin-right: auto; display: block;"/></a><br><a href="https://github.com/lostlocalhost/dfwfpv-firmware-presets/raw/master/presets/4.4/modes/img/modes1_adj1.png"><img src="https://github.com/lostlocalhost/dfwfpv-firmware-presets/raw/master/presets/4.4/modes/img/modes1_adj1.png" width="500px" style="margin-left: auto; margin-right: auto; display: block;"/></a>
 #$ DESCRIPTION:
 #$ DESCRIPTION: <br>
 #$ DESCRIPTION: <h3>Links</h3>
