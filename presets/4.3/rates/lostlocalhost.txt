@@ -20,7 +20,6 @@
 #$ DESCRIPTION:
 #$ DESCRIPTION: - [LOSTLOCALHOST](https://www.youtube.com/c/lostlocalhost)
 #$ DESCRIPTION: - [DFW FPV](https://dfwfpv.club)
-#$ DESCRIPTION: - [DFW Multirotor Discord](https://dc.dfwfpv.club)
 #$ INCLUDE: presets/4.3/rates/defaults.txt
 
 set rates_type = ACTUAL

@@ -20,7 +20,6 @@
 #$ DESCRIPTION:
 #$ DESCRIPTION: - [LOSTLOCALHOST](https://www.youtube.com/c/lostlocalhost)
 #$ DESCRIPTION: - [DFW FPV](https://dfwfpv.club)
-#$ DESCRIPTION: - [DFW Multirotor Discord](https://dc.dfwfpv.club)
 
 set osd_units = IMPERIAL
 set osd_warn_bitmask = 24575
