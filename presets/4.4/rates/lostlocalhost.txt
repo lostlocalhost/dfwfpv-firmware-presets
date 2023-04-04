@@ -19,7 +19,6 @@
 #$ DESCRIPTION:
 #$ DESCRIPTION: - [LOSTLOCALHOST](https://www.youtube.com/c/lostlocalhost)
 #$ DESCRIPTION: - [DFW FPV](https://dfwfpv.club)
-#$ INCLUDE: presets/4.4/rates/defaults.txt
 
 #$ OPTION BEGIN (UNCHECKED): Mid Rates
     set rateprofile_name = HostMid
