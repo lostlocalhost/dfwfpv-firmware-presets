@@ -283,9 +283,10 @@
     },
     {
       "fullPath": "presets/4.4/rates/lostlocalhost.txt",
-      "hash": "ff6d3c3d1028291765815770edaac693dd3f6ce589aaf489e533234ab73aa719",
+      "hash": "44726fa7a855fba712a10423cb9e25698de040ba15d73ee08acb322fed70740e",
       "title": "lostlocalhost Official Rates",
       "firmware_version": [
+        "4.3",
         "4.4"
       ],
       "category": "RATES",
