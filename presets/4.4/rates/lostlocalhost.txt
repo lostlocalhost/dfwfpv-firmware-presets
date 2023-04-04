@@ -11,7 +11,7 @@
 #$ DESCRIPTION:
 #$ DESCRIPTION: Details:
 #$ DESCRIPTION: -----------
-#$ DESCRIPTION: Set of rates lostlocalhost uses. Slow, default, and fast. lostlocalhost typically sets these to a selection switch to change in flight.
+#$ DESCRIPTION: Set of rates lostlocalhost uses. low, med, and race (based on mck rates). lostlocalhost typically sets these to a selection switch to change in flight.
 #$ DESCRIPTION: 
 #$ DESCRIPTION: <br>
 #$ DESCRIPTION: <h3>Links</h3>
@@ -20,30 +20,32 @@
 #$ DESCRIPTION: - [DFW FPV](https://dfwfpv.club)
 #$ INCLUDE: presets/4.4/rates/defaults.txt
 
-set rateprofile_name = mid
-set thr_mid = 50
-set thr_expo = 0
-set rates_type = ACTUAL
-set quickrates_rc_expo = OFF
-set roll_rc_rate = 2
-set pitch_rc_rate = 2
-set yaw_rc_rate = 2
-set roll_expo = 20
-set pitch_expo = 20
-set yaw_expo = 20
-set roll_srate = 75
-set pitch_srate = 60
-set yaw_srate = 53
-set throttle_limit_type = OFF
-set throttle_limit_percent = 100
-set roll_rate_limit = 1998
-set pitch_rate_limit = 1998
-set yaw_rate_limit = 1998
-set roll_level_expo = 0
-set pitch_level_expo = 0
+#$ OPTION BEGIN (UNCHECKED): Mid Rates
+    set rateprofile_name = HostMid
+    set thr_mid = 50
+    set thr_expo = 0
+    set rates_type = ACTUAL
+    set quickrates_rc_expo = OFF
+    set roll_rc_rate = 20
+    set pitch_rc_rate = 20
+    set yaw_rc_rate = 20
+    set roll_expo = 54
+    set pitch_expo = 54
+    set yaw_expo = 54
+    set roll_srate = 60
+    set pitch_srate = 60
+    set yaw_srate = 50
+    set throttle_limit_type = OFF
+    set throttle_limit_percent = 100
+    set roll_rate_limit = 1998
+    set pitch_rate_limit = 1998
+    set yaw_rate_limit = 1998
+    set roll_level_expo = 0
+    set pitch_level_expo = 0
+#$ OPTION END
 
-#$ OPTION BEGIN (UNCHECKED): Slow Rates
-    set rateprofile_name = low
+#$ OPTION BEGIN (UNCHECKED): Low Rates
+    set rateprofile_name = HostLow
     set thr_mid = 50
     set thr_expo = 0
     set rates_type = ACTUAL
@@ -66,21 +68,21 @@ set pitch_level_expo = 0
     set pitch_level_expo = 0
 #$ OPTION END
 
-#$ OPTION BEGIN (UNCHECKED): Fast Rates
-    set rateprofile_name = high
+#$ OPTION BEGIN (UNCHECKED): Race Rates
+    set rateprofile_name = HostRace
     set thr_mid = 50
     set thr_expo = 0
     set rates_type = ACTUAL
     set quickrates_rc_expo = OFF
-    set roll_rc_rate = 10
-    set pitch_rc_rate = 10
-    set yaw_rc_rate = 10
-    set roll_expo = 60
-    set pitch_expo = 60
-    set yaw_expo = 40
-    set roll_srate = 85
-    set pitch_srate = 80
-    set yaw_srate = 65
+    set roll_rc_rate = 22
+    set pitch_rc_rate = 18
+    set yaw_rc_rate = 16
+    set roll_expo = 56
+    set pitch_expo = 56
+    set yaw_expo = 56
+    set roll_srate = 75
+    set pitch_srate = 60
+    set yaw_srate = 53
     set throttle_limit_type = OFF
     set throttle_limit_percent = 100
     set roll_rate_limit = 1998
