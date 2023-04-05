@@ -191,7 +191,7 @@
     },
     {
       "fullPath": "presets/4.3/osd/lostlocalhost.txt",
-      "hash": "b97d3ffc1d7117f05dcedef55ec40fcb499148fcfb286d0d115baf1f1acaa564",
+      "hash": "43d30e381d588a3975c7ca7c891254cc1603a40b53a003c7cca86b7d64859c5d",
       "title": "lostlocalhost Official OSD_43",
       "firmware_version": [
         "4.3"
@@ -204,7 +204,6 @@
         "OSD"
       ],
       "author": "lostlocalhost (Brian S)",
-      "force_options_review": true,
       "priority": 0
     },
     {
@@ -284,7 +283,7 @@
     },
     {
       "fullPath": "presets/4.4/rates/lostlocalhost.txt",
-      "hash": "81c11743b27849e450156a36beb6561abf5f20996d7a6403a246f7cdcc43679c",
+      "hash": "5317ad8f5c8ff83449ce4adb20743586e9e155e23616ff176b927929cb0c217c",
       "title": "lostlocalhost Official Rates",
       "firmware_version": [
         "4.3",
@@ -300,6 +299,7 @@
         "rates"
       ],
       "author": "lostlocalhost (Brian S)",
+      "force_options_review": true,
       "priority": 10000
     }
   ]
