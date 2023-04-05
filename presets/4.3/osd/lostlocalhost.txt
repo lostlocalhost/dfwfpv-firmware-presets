@@ -4,6 +4,7 @@
 #$ STATUS: COMMUNITY
 #$ KEYWORDS: lostlocalhost, youtube, OSD
 #$ AUTHOR: lostlocalhost (Brian S)
+#$ FORCE_OPTIONS_REVIEW: TRUE
 
 #$ PARSER: MARKED
 

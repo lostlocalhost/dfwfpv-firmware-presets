@@ -191,7 +191,7 @@
     },
     {
       "fullPath": "presets/4.3/osd/lostlocalhost.txt",
-      "hash": "43d30e381d588a3975c7ca7c891254cc1603a40b53a003c7cca86b7d64859c5d",
+      "hash": "b97d3ffc1d7117f05dcedef55ec40fcb499148fcfb286d0d115baf1f1acaa564",
       "title": "lostlocalhost Official OSD_43",
       "firmware_version": [
         "4.3"
@@ -204,6 +204,7 @@
         "OSD"
       ],
       "author": "lostlocalhost (Brian S)",
+      "force_options_review": true,
       "priority": 0
     },
     {
