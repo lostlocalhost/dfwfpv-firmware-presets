@@ -2,7 +2,7 @@
 #$ FIRMWARE_VERSION: 4.4
 #$ CATEGORY: OSD
 #$ STATUS: COMMUNITY
-#$ KEYWORDS: lostlocalhost, youtube, OSD
+#$ KEYWORDS: lostlocalhost, youtube, OSD, HDZero
 #$ AUTHOR: lostlocalhost (Brian S)
 
 #$ PARSER: MARKED

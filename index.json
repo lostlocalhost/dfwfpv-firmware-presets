@@ -153,6 +153,7 @@
       "defaults",
       "expert",
       "freestyle",
+      "HDZero",
       "lostlocalhost",
       "mode",
       "modes",
@@ -248,7 +249,7 @@
     },
     {
       "fullPath": "presets/4.4/osd/lostlocalhost.txt",
-      "hash": "e6aeb2276230433420a16b05c9b75314e8d00b025e4b0f064498b5bc134611ee",
+      "hash": "92a712356a563115acf240cd4f19172807c43984867c830498c4a18f148c8653",
       "title": "lostlocalhost Official OSD",
       "firmware_version": [
         "4.4"
@@ -258,7 +259,8 @@
       "keywords": [
         "lostlocalhost",
         "youtube",
-        "OSD"
+        "OSD",
+        "HDZero"
       ],
       "author": "lostlocalhost (Brian S)",
       "priority": 0
